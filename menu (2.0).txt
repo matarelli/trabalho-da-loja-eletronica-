@@ -1,0 +1,21 @@
+c<html>
+<head>
+<link rel="stylesheet" type="text/css" href="estilo.css"/>
+<title> Olhar digital </title>
+<div id="estilo">
+</br></br>
+<img src="Logo.png"/>
+<h4>Pagina principal</h4>
+<link rel= "stylebheet" type= "text/css" href= "estilo.css" />
+</head>
+<body background="Fundo.jpg" bgproperties="fixed" widch: 100% >
+<body>
+<ul id= "nav">
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/menu%20(2.0)/missao.html">missao </a></li>
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/menu%20(2.0)/tabela%20de%20preco%20dos%20produtos.html">tabela de precos dos produtos </a>
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/menu%20(2.0)/relacao%20de%20funcionarios.html">relacao dos funcionarios </a></li>
+</ul>
+</li>
+</br></br>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<html>
+<head>
+<body background="Fundo.jpg" bgproperties="fixed" widch: 100% >
+<link rel="stylesheet" type="text/css" href="estilo.css"/>
+</head>
+</br>
+<div id="estilo">
+</br></br>
+<img src="Logo.png"/>
+<h4>Relacao de funcionarios</h4>
+<link rel= "stylebheet" type= "text/css" href= "estilo.css" />
+<TABLE BORDER=1 width="60%" align="center">
+<tr>
+<td> Nome do funcionario  </td>
+<td> Salario </td>
+<td> Cargo <td>
+</tr>
+<tr>
+<td> Marco Antonio Lemer </td>
+<td> R$ 2.500 </td>
+<td> ajudante da presidencia </td>
+</tr>
+<tr>
+<td> Fidel Castro </td>
+<td> R$ 1.500 </td>
+<td> Tecnico de adiministracao </td>
+</tr>
+<td> Michael Temer</td>
+<td> R$ 1.500 </td>
+<td> Tecnico em eletronica </td>
+</tr>
+<td> Abrahan Simpisons </td>
+<td> R$1.000 </td>
+<td> Tecnico em informatica</td>
+</tr>
+<td> Uciolli Betelli </td>
+<td> R$ 800 </td>
+<td> Caixa </td>
+</tr>
+</body>
+</TABLE>
+<ul id= "nav">
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/menu%20(2.0)/missao.html">missao </a></li>
+<li><a href= "file:///C:/Users/Inform%C3%A1tica%202%C2%BA%20ano/Desktop/menu%20(2.0)/tabela%20de%20preco%20dos%20produtos.html">tabela de preco dos produtos </a></li>
+</ul>
+</li>
+</br>
+</br>
